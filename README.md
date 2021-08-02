@@ -1,17 +1,23 @@
 ## Image Segmentation
 
 #### Dataset
-The dataset used is plant village dataset
+The dataset used is plant village dataset : 
 https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
 
 #### Properties of images
 
 Type of File : JPG File.
+
 Dimensions : 256 * 256.
+
 Width : 256 Pixels.
+
 Height : 256 Pixels.
+
 Horizontal Resolution : 96 dpi.
+
 Vertical Resolution : 96 dpi.
+
 Bit Depth : 24.
 
 #### Steps Involved 
